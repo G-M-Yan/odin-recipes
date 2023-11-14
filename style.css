@@ -1,0 +1,17 @@
+body {
+    background-color: tomato;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+}
+
+#container {
+    margin-left: 180px;
+}
+
+.logo {
+    margin-left: 690px;
+}
+
+.logo.page2 {
+    margin-left: 850px;
+}
